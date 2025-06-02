@@ -1,0 +1,16 @@
+RewriteEngine On
+#RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) index.php/$1
+
+
+
+
+
+RewriteCond %{HTTP_HOST} ^www\.hellohumsafar\.com$ [NC]
+RewriteRule (.*) http://localhost/perfomdigi/hindu-humsfar-react/backend//$1 [R=301,L]
+
+
+
+

@@ -1,0 +1,1257 @@
+/* Smartphones (landscape) ----------- */
+@media only screen and (max-device-width:320px) {
+	.fh5co-nav #fh5co-logo {
+		font-size: 30px;
+	}
+
+	#sliderCaption {
+		margin-top: 9em;
+	}
+	section.profile {
+	    min-height:  calc(100vh - 340px);
+	}
+	.addImageSc { 
+	    min-height: calc(100vh - 340px);
+	}
+	.changePwdSection { 
+	    min-height: calc(100vh - 340px);
+	}
+	.content{ 
+	    min-height: calc(100vh - 340px);
+	}
+	.contentPageDesign{ 
+	    min-height: calc(100vh - 340px);
+	}
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:321px) and (max-device-width:640px) {
+	.fh5co-nav #fh5co-logo {
+		font-size: 30px;
+	}
+	section.profile {
+	    min-height:  calc(100vh - 340px);
+	}
+	.addImageSc { 
+	    min-height: calc(100vh - 340px);
+	}
+	.changePwdSection { 
+	    min-height: calc(100vh - 340px);
+	}
+	.content{ 
+	    min-height: calc(100vh - 340px);
+	}
+	.contentPageDesign{ 
+	    min-height: calc(100vh - 340px);
+	}
+	/*#sliderCaption {
+		margin: 0;
+		position: absolute;
+		bottom: 50%; 
+		padding: 0 15%;
+	}*/
+	#sliderCaption {
+		margin-top: 9em;
+	}
+
+	#sliderCaption h3 {
+		font-size: 20px;
+		line-height: 1.4;
+	}
+
+	.iconCircleIndex i.fa-file-text {
+		top: 18%;
+		left: 43%;
+	}
+
+	.iconCircleIndex i.fa-heart {
+		top: 18%;
+		left: 41%;
+	}
+
+	.iconCircleIndex i.fa-commenting {
+		top: 15%;
+		left: 41%;
+	}
+
+	.iconCircleIndex img {
+		top: 14%;
+		left: 39%;
+	}
+
+	.sectionRegistor {
+		margin-bottom: 30px;
+	}
+
+	.profilePic img {
+		height: 200px;
+		object-fit: cover;
+	}
+
+	#fh5co-event .event-wrap .event-col ul {
+		padding: 0;
+	}
+
+	#fh5co-event .event-wrap .event-col ul li {
+		font-size: 14px;
+	}
+
+}
+
+@media only screen and (max-width:1199px) and (min-width: 992px){
+	.serachBox .listSectionColor h3{
+		font-size: 14px;
+	}
+	.profileImgSearch, .profileImgSearch img{
+		height: 210px;
+	}
+	.serachBox ul li{
+		font-size: 14px;
+	}
+	.profileBanner > .col-md-12 > .col-sm-3 img {
+	    width: 100%;
+	    height: 300px;
+	    object-fit: contain;
+	}
+	.profileBanner .prDetails .legend-con li span { 
+	    white-space: nowrap;
+	}
+	.prDetailsBlocks h2{
+		font-size: 18px;
+	}
+	.prDetailsBlocksRight h2{
+		font-size: 18px;
+	}
+	.prDetailsBlocksRight{
+		padding: 30px;
+	}
+	span.aboutMyFamily, span.editAboutMyFamily {
+	    margin-top: 5px;
+	}
+}
+@media only screen and (max-width:991px){
+	.mobViewCP{
+		display: block;
+	}
+	.desktopViewCP{
+		display: none;
+	}
+	.blog_list__content .col-xs-8{
+		margin-left: -15px;
+		margin-right: -15px;
+		padding-right: 0;
+	}
+	.blog_list__content h2 {
+	    font-size: 12px;
+	    margin-bottom: 3px; 
+	    text-align: unset;
+	    margin-right: 0;
+	    font-weight: 600;
+	}
+	.blog__Content .blog_list__content p { 
+	   font-size: 10px;
+	    text-align: left;
+	    margin-bottom: 4px;
+	    line-height: 1.4;
+	}
+	.blog__Content .blog_list__content h6 { 
+	   font-size: 10px;
+	    text-align: left;
+	    margin-bottom: 4px;
+	    line-height: 1.4;
+	}
+	.blog__ContentSide{
+		display: none;
+	}
+	.heading__section > h5{
+	    margin-bottom: 8px;
+		font-size: 12px;
+	}
+	.heading__section > h1{
+		font-size: 14px;
+	}
+}
+@media only screen and (max-width:991px) and (min-width: 768px){
+	.profileImgSearch, .profileImgSearch img{
+		height: 160px;
+	}
+	.serachBox .listSectionColor { 
+	    padding: 5px 8px;
+	    margin: -10px -10px;
+	}
+	.serachBox .listSectionColor h3{
+		font-size: 14px;
+	}
+	.serachBox ul li{
+		font-size: 14px;
+	}
+	.profileBanner .prDetails .canvas-con{
+		display: block;
+	}
+	.prDetailsBlocksRight{
+		margin-left: 15px;
+		margin-bottom: 20px;
+	}
+	.prDetailsBlocks{
+		margin-right: 0;
+	}
+	.profileBanner .prPhoto{
+		transform: translate(40%, -50%);
+	}
+}
+@media only screen and (max-width:767px) {
+	#menuHelloHumsafar{
+		min-width: 320px;
+		max-width: 320px;
+		right: -360px;
+	}
+	.profile .col-xs-6{
+		width: 33.33%;
+	}
+	.fh5co-nav {
+	    padding: 10px 0;
+	}
+	a.labelMenu {
+	    margin-top: 11px;
+	}
+	.fh5co-nav ul li{
+		display: none;
+	}
+	#navBackground .dropdown-menu{
+		left: -56px;
+    	max-width: 100%;
+    	top: 42px;
+	}
+	ul#notificationIconUL li a:after{
+		margin-right: 5px;
+	}
+	ul#mobileMenuNew{
+		margin-top: -1px;
+		display: block;
+	}
+	ul#mobileMenuNew  li{
+		display: inline-block;
+		padding: 0 2px;
+	}
+	ul#notificationIconUL li{
+		display: flex;
+	}
+	ul#notificationIconUL li a.notificationCloseBtn {
+	    padding: 5px;
+	    position: unset;
+	    margin-right: 3px; 
+	    width: 15px;
+	    height: 15px; 
+	    font-size: 10px;
+	    display: flex; 
+	    justify-content: center;
+	}
+	ul#mobileMenuNew  li a.labelMenu{
+		padding: 0;
+	}
+
+	ul#mobileMenuNew  li a.labelMenu i{
+		font-size: 18px;
+	}
+	#menuHelloHumsafar .logoMSec a{
+		display: inline-flex;
+		align-items: center;
+	}
+
+	#menuHelloHumsafar .logoMSec img {
+	    width: 50px;
+	    height: 50px;
+	    object-fit: cover;
+	    border-radius: 50%;
+	    margin: 0;
+	    display: inline-block;
+	}
+	#menuHelloHumsafar .logoMSec h2{
+		display: inline-block;
+	    margin: 0 10px;
+	    font-size: 20px;
+	    color: #fff;
+	}
+	.fh5co-nav.indexNav {
+		position: unset;
+		background: #bb439b;
+	}
+
+	.fh5co-nav-toggle {
+		display: none;
+	}
+
+	.fh5co-nav a {
+		display: inline-flex;
+		padding: 0;
+	}
+
+	#fh5co-header .couple-wrap {
+		display: none;
+	}
+
+	.fh5co-nav #fh5co-logo {
+		font-size: 32px;
+	}
+
+	.fh5co-nav a strong {
+		margin-left: 10px;
+	}
+
+	#fh5co-offcanvas {
+		background: #bb439b;
+	}
+
+	.fh5co-nav.indexNav {
+		padding: 10px 0;
+	}
+
+	#fh5co-offcanvas a {
+		color: #fff;
+	}
+
+	.fh5co-cover {
+		height: 350px;
+		padding-bottom: 20px;
+	}
+	.changePwd{
+		display: block;
+	}
+	.loginmodal-container input[type=text], 
+	.loginmodal-container input[type=password]{
+		font-size: 14px;
+	}
+	.changePwd  input[type=submit]{
+		height: 44px;
+		padding: initial;
+	}
+	#menuHelloHumsafar .dropdown-menu {
+	    left: 0;
+	    top: 0;
+	}
+	#sliderCaption {
+		margin-top: 0;
+		position: absolute;
+		bottom: 50%;
+		padding: 0 15%;
+	}
+
+	.couple-wrap {
+		width: 100%;
+	}
+
+	.couple-half {
+		width: 50%;
+	}
+
+	.couple-half .groom, .couple-half .bride {
+		height: auto;
+		width: unset;
+	}
+
+	.couple-half .groom img, .couple-half .bride img {
+		width: 100px;
+		height: 100px;
+	}
+
+	.heart {
+		display: block;
+		top: 2.5em;
+	}
+
+	.heart i {
+		padding: 10px;
+	}
+
+	.searchBar {
+		bottom: 0;
+	}
+
+	.formBackground {
+		background: rgba(0, 0, 0, 0.35);
+		padding: 0 10px 10px
+	}
+
+	#fh5co-header {
+		background-position: 0 0px !important;
+	}
+
+	.fh5co-nav .menu-1, .fh5co-nav .menu-2 {
+		display: block;
+	}
+
+	.fh5co-nav ul > li > a {
+		font-size: 12px;
+		padding: 8px 5px;
+	}
+
+	.iconCircleIndex {
+		width: 80px;
+		height: 80px;
+		margin: 0 auto 10px;
+	}
+
+	.iconCircleIndex i {
+		position: relative;
+	}
+
+	.iconCircleIndex i.fa-file-text {
+		top: 30%;
+		left: 35%;
+		font-size: 30px;
+	}
+
+	.iconCircleIndex i.fa-heart {
+		top: 32%;
+		left: 30%;
+		font-size: 32px;
+	}
+
+	.iconCircleIndex i.fa-commenting {
+		top: 25%;
+		left: 30%;
+		font-size: 35px;
+	}
+
+	.iconCircleIndex img {
+		width: 40px;
+		top: 25%;
+		left: 25%;
+		position: relative;
+	}
+
+	.sectionRegistor h2 {
+		font-size: 20px;
+		font-weight: 600;
+		margin-bottom: 10px;
+	}
+
+	.sectionRegistor p {
+		font-size: 14px;
+		line-height: 1.5;
+	}
+
+	.formBackground .form-group .form-control {
+		font-size: 10px;
+		padding: 6px 6px;
+		white-space: break-spaces;
+	}
+
+	.formBackground .form-group label {
+		font-size: 10px;
+	}
+
+	.formBackground .form-group {
+		margin-bottom: unset;
+		padding: 0 10px;
+	}
+
+	#fh5co-counter .event-wrap h3, #fh5co-event .event-wrap h3 {
+		font-size: 16px;
+		margin-bottom: 5px;
+	}
+
+	#fh5co-counter .event-wrap, #fh5co-event .event-wrap {
+		padding: 5px;
+	}
+
+	.display-tc {
+		padding: 0 10px;
+	}
+
+	.display-tc > div {
+		padding: 0 5px;
+	}
+
+	#fh5co-counter .event-wrap .event-col, #fh5co-event .event-wrap .event-col {
+		display: flex;
+		align-items: center;
+	}
+
+	#fh5co-event .event-wrap .event-col ul {
+		padding: 0;
+	}
+
+	#fh5co-event .event-wrap .event-col ul li {
+		font-size: 12px;
+	}
+
+	#fh5co-testimonial .wrap-testimony .testimony-slide blockquote p {
+		font-size: 14px;
+	}
+
+	#fh5co-counter .icon {
+		width: 50px;
+		height: 50px;
+		margin-bottom: 10px;
+	}
+
+	#fh5co-counter .icon i {
+		height: 50px;
+		font-size: 25px;
+		line-height: 25px;
+	}
+
+	#fh5co-counter .counter {
+		font-size: 30px;
+		margin-bottom: 5px;
+	}
+
+	#fh5co-counter .counter-label {
+		font-size: 14px;
+	}
+
+	#fh5co-couple h3 {
+		font-size: 14px;
+	}
+
+	.couple-half .desc-groom, .couple-half .desc-bride {
+		width: 100%;
+		clear: both;
+		padding-right: unset;
+		padding-left: unset;
+	}
+
+	.couple-half .desc-groom p, .couple-half .desc-bride p {
+		font-size: 12px;
+		padding: 0 10px;
+		text-align: center;
+	}
+
+	#fh5co-couple .desc-groom h3, #fh5co-couple .desc-bride h3 {
+		font-size: 16px;
+		font-weight: bold;
+		margin-bottom: 0;
+		display: inline-block;
+		padding: 10px 20px;
+	}
+
+	.profile .fh5co-heading{
+	    margin-top: 15px;
+	  }
+	  .fh5co-heading h2 {
+	    font-size: 40px;
+	  }
+	  .fh5co-heading {
+	    margin-bottom: 1.5em;
+	}
+	/*== search result ==*/
+	.serachBox{
+		padding: 0px;
+	}
+	.profileImgSearch { 
+	    height: 220px;
+	    margin-bottom: 0;
+	} 
+	.profileImgSearch img { 
+	    height: 220px; 
+	    width: 100%;
+   		object-fit: contain;   		
+    	margin: 0;
+	}
+	.serachBox .listSectionColor{
+		margin: 0;
+		padding: 5px 10px;
+		/*height: 120px;*/
+	}
+	.serachBox .listSectionColor h3{
+		font-size: 11px;
+    	font-weight: 700; 
+    	line-height: 1.6;
+	}
+	.serachBox ul li{
+		font-size: 14px;
+	}
+
+	/*==Profile==*/
+	.profileBanner{
+		margin: 0 15px 15px 15px;
+	}
+	.profileBanner > .col-md-12 > .col-sm-3 img {
+	    width: 100%; 
+	    height: 200px;
+    	object-fit: contain;
+    	background: #bdbdbd;
+	}
+	.profileBanner .prPhoto { 
+	    top: 5%;
+	    transform: unset; 
+	}
+	.profileBanner .prPhoto h3{
+		font-size: 20px;
+	}
+	.profileBanner .prPhoto h4{
+		font-size: 18px;
+	}
+	.profileBanner .prDetails{
+		text-align: center;
+	}
+	.profileBanner .prDetails .canvas-con{
+		display: inline-block;
+	}
+	.prDetailsBlocks{
+		margin: 0;
+		margin-bottom: 15px;
+		padding: 20px;
+	}
+	.prDetailsBlocks .leftDetails{
+		margin-left: 0;
+    	width: 100%;
+	}
+	.prDetailsBlocks .rightDetails {
+	    float: unset;
+	    margin-right: 0;
+	    width: 100%;
+	}
+	.prDetailsBlocks .middleDetails {
+	    float: unset;
+	    margin-right: 0;
+	    width: 100%;
+	}
+	.prDetailsBlocks .rightDetails ul{
+		padding: 0;
+	}
+	.prDetailsBlocks p { 
+	    margin: 10px 0;
+	    text-align: justify;
+	}
+	ul.editContactDetails li.cntAds{
+		padding: 0;
+	}
+	.prDetailsBlocksRight { 
+	    padding: 20px;
+	    margin-left: 0; 
+	    margin-bottom: 15px;
+	}
+
+	#desiredPartnerPage .prDetailsBlocks .dpFormContent ul.dpFormUl{
+		padding: 0;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpFormContent ul.dpFormUl > li:first-child {
+	    width: 100%;
+	    text-align: left;
+	    font-weight: bold;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpFormContent ul.dpFormUl > li{
+		margin: 0 10px;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpFormContent ul.dpFormUl > li.dpSplitsFirst,
+	#desiredPartnerPage .prDetailsBlocks .dpFormContent ul.dpFormUl > li.dpSplitsSecond{
+		width: 40%;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpFormContent ul.dpFormUl > li.dpSplitsFull {
+	    width: calc(100% - 30px);
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpContent ul{
+		display: block;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpContent ul li{
+		margin: 0;
+		width: 100%;
+		word-break: break-word;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpContent ul li:first-child{
+		font-weight: bold;
+		text-align: left;
+		width: 100%;
+	}
+	#desiredPartnerPage .prDetailsBlocks .dpContent ul li:last-child{
+		width: 100%;
+	}
+
+	.prDetailsBlocks .fullWidth{
+		padding: 0;
+	}
+	.prDetailsBlocks .leftDetailsSearch, 
+	.prDetailsBlocks .middleDetailsSearch, 
+	.prDetailsBlocks .rightDetailsSearch {
+	    display: block;
+	    width: 100%;
+	}
+	.prDetailsBlocks span.searchById{
+		font-size: 16px;
+	}
+	.prDetailsBlocks span.searchByDetails{
+		font-size: 16px;
+	}
+	.search_resultFilter{
+		padding: 0;
+	}
+	.profileBanner h2{
+		padding: 10px 20px;
+		width: calc(100% + 30px);
+		font-size: 22px;
+		text-transform: capitalize;
+	}
+	.prDetailsBlocks > ul{
+		padding-left: 0;
+	}
+	.profileBanner > .col-md-12 > .col-sm-3 img.createPrImgNew {
+	    width: calc(100% + +60px);
+	    object-fit: contain;
+	    height: auto;
+	    max-height: 450px;
+	}
+	.createProfile__h3{ 
+	  padding-top: 15px;
+	  margin-left: 15px;
+	  margin-bottom: 0;
+	}
+	.profileBanner .prPhoto .form-group{
+		margin-top: 0;
+		margin-left: 15px;
+	}
+	.profileBanner .prPhoto .form-group input[type=submit] { 
+	    width: calc(100% + 45px);
+	}
+	.createPrDetailsNew {
+	    width: calc(100% + 30px);
+	}
+	.contentPDDetails p{
+		font-size: 14px;
+		text-align: justify;
+	}
+	.contentPDDetails ol li{
+		font-size: 14px;
+	}
+	a#backButtonPhoto{
+		margin-left: 15px;
+		margin-bottom: 15px;
+	}
+	.addImageBackground{
+		display: flow-root;
+	}
+	.imgListAll .imgPipeline { 
+	    width: 50%;  
+	    padding: 0 6px;
+	    margin-bottom: 15px;
+	}
+	.imgListAll .imgPipeline img{
+		object-fit: contain;
+		height: 150px;
+    	width: 100%;
+	}
+	/*==Hide Profile==*/
+	#hideProfile {
+	    text-align: center;
+	    bottom: unset;
+	    top: 45%;
+	    transform: translateY(-50%);
+	    margin: 0 10px;
+	}
+	#deleteProfile {
+	    text-align: center;
+	    bottom: unset;
+	    top: 45%;
+	    transform: translateY(-50%);
+	    margin: 0 10px;
+	}
+	/*==footer css==*/
+	footer.ftr {
+		padding: 15px 0;
+	}
+
+	.ftrList {
+		padding: 0 5px;
+		display: grid;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.ftr_bottom {
+		margin-top: 15px;
+	}
+
+	.ftrList h2 {
+		font-size: 16px;
+		display: table-cell;
+		height: 15px;
+		vertical-align: middle;
+		font-weight: 600;
+	}
+
+	.ftrList ul li a, .ftrList ul li i {
+		font-size: 14px;
+	}
+
+	.ftrList ul li {
+		line-height: 1.4;
+		text-indent: -6px;
+		margin-left: 6px;
+		padding-bottom: 10px;
+	}
+
+	.ftrList ul {
+		margin-bottom: 15px;
+		padding: 0 10px;
+	}
+
+	.ftr_bottom p {
+		font-size: 12px;
+	}
+
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+
+	/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width:321px) {
+
+	/* Styles */
+}
+ 
+@media only screen and (max-width:720px){
+	.profileImgSearch, .profileImgSearch img{
+		height: 190px;
+	}
+}
+
+@media only screen and (max-width:640px){
+	.profileImgSearch, .profileImgSearch img{
+		height: 160px;
+	}
+	.serachBox .listSectionColor{
+		padding: 5px 8px;
+	}
+	.serachBox ul li{
+		font-size: 14px;
+	}
+}
+ 
+@media only screen and (max-width:540px){
+	.profileImgSearch, .profileImgSearch img{
+		height: 140px;
+	}
+	.serachBox .listSectionColor h3 {
+	    font-size: 13px;
+	    line-height: 1.4;
+	}
+	.serachBox ul li {
+	    font-size: 13px;
+	}
+	.serachBox .listSectionColor{
+		/*height: 100px;*/
+	}
+}
+@media only screen and (max-width:480px){
+	.profile .col-xs-6{
+		width: 50%;
+	}
+	.serachBox .listSectionColor{
+		height: auto;
+	}
+	.profileImgSearch, .profileImgSearch img{
+		height: 190px;
+	}
+	.serachBox .listSectionColor h3{
+		font-size: 11px;
+    	font-weight: 700;
+	}
+	.pagination > li > a, .pagination > li > span{
+		padding: 10px 10px;
+    font-size: 14px;
+	}
+}
+
+@media only screen and (max-width:440px){
+	#menuHelloHumsafar{
+		min-width: 75%;
+		max-width: 75%;
+	}
+	.fh5co-heading h2{
+		font-size: 30px;
+	}
+	.profileImgSearch, .profileImgSearch img {
+	    height: 180px;
+	}
+	.fh5co-nav #fh5co-logo{
+		font-size: 22px;
+	}
+	#navBackground .dropdown-menu{
+		left: -66px;
+	}
+	
+	#menuHelloHumsafar .dropdown-menu {
+	    left: 0;
+	    top: 0;
+	}
+	
+}
+@media only screen and (max-width:360px) {
+	#menuHelloHumsafar{
+		min-width: 75%;
+		max-width: 75%;
+	}
+	.fh5co-nav #fh5co-logo{
+		font-size: 20px;
+	}
+	#navBackground .dropdown span.dropdown-toggle i.menuIcons{
+		font-size: 15px;
+		padding: 0 5px;
+	}
+	i.notificationIcon{
+		font-size: 15px;
+	}
+	ul#mobileMenuNew li a.labelMenu i{
+		font-size: 15px;
+	}
+	#menuHelloHumsafar .logoMSec h2{
+		font-size: 16px;
+	}
+	#menuHelloHumsafar .logoMSec img{
+		width: 40px;
+		height: 40px;
+	}
+	#menuHelloHumsafar > nav > ul > li{
+		margin-left: 10px;
+	}
+	#menuHelloHumsafar nav > ul li a{
+		font-size: 14px;
+	}
+	#menuHelloHumsafar .dropdown-menu>li>a{
+		padding: 3px 0 6px 10px;
+   		font-size: 14px;
+	}
+	.profile .fh5co-heading{
+		margin-top:  15px;
+	}
+	.fh5co-heading h2{
+		font-size: 22px;
+	}
+	.pagination > li > a, .pagination > li > span{
+		    padding: 5px 10px;
+   		 font-size: 12px;
+	}
+
+	.ftrList h2{
+		font-size: 14px;
+	}
+	.ftrList ul li a, .ftrList ul li i{
+		font-size: 12px;
+	}
+	.gototop a{
+		width: 30px;
+		height: 30px;
+	}
+	.gototop a i{
+		height: 30px;
+		font-size: 12px;
+	}
+	/*==Profile Search sections==*/
+	.profileImgSearch{
+		height: 150px;
+	}
+	.profileImgSearch img{
+		height: 150px; 
+	}
+	.serachBox .listSectionColor{
+		padding: 8px;
+	}
+	.serachBox .listSectionColor h3{
+		font-size: 10px;
+    	font-weight: 700;
+	}
+	.serachBox ul li{
+		font-size: 12px;
+	}
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width:320px) {
+	#fh5co-header .couple-wrap {
+		display: none;
+	}
+
+	#sliderCaption {
+		margin: 0;
+		position: absolute;
+		bottom: 175px;
+		width: 100%;
+		padding: 0 15%;
+	}
+
+	#sliderCaption h3 {
+		font-size: 14px;
+		font-size: 20px;
+		line-height: 1.4;
+	}
+	.fh5co-nav #fh5co-logo{
+		font-size: 20px;
+	}
+	#navBackground .dropdown span.dropdown-toggle i.menuIcons{
+		font-size: 15px;
+		padding: 0 5px;
+	}
+	i.notificationIcon{
+		font-size: 15px;
+	}
+	ul#mobileMenuNew li a.labelMenu i{
+		font-size: 15px;
+	}
+	#menuHelloHumsafar .logoMSec h2{
+		font-size: 16px;
+	}
+	#menuHelloHumsafar .logoMSec img{
+		width: 40px;
+		height: 40px;
+	}
+	#menuHelloHumsafar > nav > ul > li{
+		margin-left: 10px;
+	}
+	#menuHelloHumsafar nav > ul li a{
+		font-size: 12px;
+	}
+	#menuHelloHumsafar .dropdown-menu>li>a{
+		padding: 3px 0 6px 10px;
+   		font-size: 12px;
+	}
+	.profile .fh5co-heading{
+		margin-top:  15px;
+	}
+	.fh5co-heading h2{
+		font-size: 22px;
+	}
+	.pagination > li > a, .pagination > li > span{
+		    padding: 5px 10px;
+   		 font-size: 12px;
+	}
+
+	.ftrList h2{
+		font-size: 14px;
+	}
+	.ftrList ul li a, .ftrList ul li i{
+		font-size: 12px;
+	}
+	.gototop a{
+		width: 30px;
+		height: 30px;
+	}
+	.gototop a i{
+		height: 30px;
+		font-size: 12px;
+	}
+	/*==Profile Search sections==*/
+	.profileImgSearch{
+		height: 130px;
+	}
+	.profileImgSearch img{
+		height: 130px;
+	}
+	.serachBox .listSectionColor{
+		padding: 6px;
+	}
+	.serachBox .listSectionColor h3{
+		font-size: 9px;
+	}
+	.serachBox ul li{
+		font-size: 10px;
+	} 
+	/*==Profile Search sections==*/
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:641px) and (max-device-width:767px) {
+	#sliderCaption {
+		margin-top: 2em;
+		position: relative;
+		padding: 0 30%;
+	}
+
+	#sliderCaption h3 {
+		font-size: 20px;
+		line-height: 1.4;
+	}
+	section.profile {
+	    min-height:  calc(100vh - 340px);
+	}
+	.addImageSc { 
+	    min-height: calc(100vh - 340px);
+	}
+	.changePwdSection { 
+	    min-height: calc(100vh - 340px);
+	}
+	.content{ 
+	    min-height: calc(100vh - 340px);
+	}
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {
+	.fh5co-nav #fh5co-logo {
+		font-size: 30px;
+	}
+
+	.searchBar {
+		background: rgba(0, 0, 0, 0.3);
+		bottom: 0;
+	}
+
+	.formBackground {
+		background: unset;
+	}
+
+	#sliderCaption {
+		margin-top: 10em;
+	}
+
+	.fh5co-heading h2 {
+		font-size: 40px;
+	}
+
+	.profilePic img {
+		height: 200px;
+	}
+
+	#fh5co-event .event-wrap .event-col ul {
+		padding: 0 5px;
+	}
+
+	#fh5co-event .event-wrap .event-col ul li {
+		font-size: 14px;
+	}
+
+}
+
+
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+
+	/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) {
+
+	/* Styles */
+}
+
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width:1224px) {
+
+	/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width:1824px) {
+
+	/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-height:568px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:568px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width:375px) and (max-device-height:667px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:375px) and (max-device-height:667px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width:414px) and (max-device-height:736px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:414px) and (max-device-height:736px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone X ----------- */
+@media only screen and (min-device-width:375px) and (max-device-height:812px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:375px) and (max-device-height:812px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+/* iPhone XS Max, XR ----------- */
+@media only screen and (min-device-width:414px) and (max-device-height:896px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:414px) and (max-device-height:896px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width:360px) and (max-device-height:640px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:360px) and (max-device-height:640px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}

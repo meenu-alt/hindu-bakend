@@ -1,0 +1,1383 @@
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {
+	.fh5co-nav #fh5co-logo{
+		font-size: 30px;
+	}
+	.searchBar{
+		background: rgba(0, 0, 0, 0.3);
+		bottom: 0;
+	}
+	.formBackground{
+		background: unset;
+	}
+	#sliderCaption{
+		margin-top: 46%;
+	}
+	.fh5co-heading h2{
+		font-size: 40px;
+	}
+	.profilePic img{
+		height: 200px;
+	}
+	#fh5co-event .event-wrap .event-col ul{
+		padding: 0 5px;
+	}
+	#fh5co-event .event-wrap .event-col ul li{
+		font-size: 14px;
+	}
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:641px) and (max-device-width:767px) {
+	#sliderCaption {
+	    margin-top: 2em;
+	    position: relative;
+	    padding: 0 30%;
+	} 
+
+	#sliderCaption h3 { 
+		font-size: 20px;
+		line-height: 1.4;
+	}
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width:321px) and (max-device-width:640px) {
+	.fh5co-nav #fh5co-logo{
+		font-size: 30px;
+	}
+	/*#sliderCaption {
+		margin: 0;
+		position: absolute;
+		bottom: 50%; 
+		padding: 0 15%;
+	}*/
+	#sliderCaption {
+	    margin-top: 9em;
+	}
+	#sliderCaption h3 { 
+		font-size: 20px;
+		line-height: 1.4;
+	}
+	.iconCircleIndex i.fa-file-text {
+	    top: 18%;
+	    left: 43%; 
+	}
+	.iconCircleIndex i.fa-heart {
+	    top: 18%;
+	    left: 41%; 
+	}
+	.iconCircleIndex i.fa-commenting {
+	    top: 15%;
+	    left: 41%; 
+	}
+	.iconCircleIndex img{
+		top: 14%;
+    	left: 39%;
+	}
+	.sectionRegistor{
+		margin-bottom: 30px;
+	}
+	.profilePic img{
+		height: 200px;
+		object-fit: cover;
+	}
+	#fh5co-event .event-wrap .event-col ul{
+		padding: 0;
+	}
+	#fh5co-event .event-wrap .event-col ul li{
+		font-size: 14px;
+	}
+
+}
+
+
+/* Smartphones (landscape) ----------- */
+
+@media only screen and (max-device-width:320px){
+	.fh5co-nav #fh5co-logo{
+		font-size: 30px;
+	}
+	#sliderCaption {
+	    margin-top: 9em;
+	}
+}
+
+@media screen and (min-width: 1400px) {
+  .container {
+    width: 1370px;
+  }
+  .fh5co-cover{
+  	height: 800px;
+  }
+  #sliderCaption {
+    margin-top: 30%;
+  } 
+	.fh5co-nav #fh5co-logo{
+		font-size: 44px;
+	}
+	.fh5co-nav ul > li > a{
+		font-size: 22px;
+	padding: 30px 15px;
+	}
+	#sliderCaption h3{
+		font-size: 28px;
+	}
+	.formBackground .form-group label{
+		font-size: 20px;
+	}
+	.formBackground .form-group .form-control{
+		font-size: 20px;
+		height: 55px;
+	}
+	.couple-half .groom img,
+	.couple-half .bride img {
+		width: 200px;
+		height: 200px;
+	}
+	.couple-half .groom, .couple-half .bride {
+		width: 200px;
+		height: 200px;
+	}
+	.heart{
+		top: 5em;
+	}
+	.heart i{
+		font-size: 44px; 
+    	padding: 20px;
+	}
+	.modal-dialog{
+		width: 700px;
+	}
+	.loginmodal-container{
+		padding: 60px 20px;
+    	max-width: 700px;
+	}
+	.loginmodal-container h1{
+		font-size: 36px;
+	}
+	.loginmodal-container input[type=text], 
+	.loginmodal-container input[type=password],
+	.loginmodal-container input[type=submit]{
+		    height: 50px;
+		    font-size: 20px; 
+		    margin-bottom: 15px;
+	}
+
+	.login-help {
+	    font-size: 20px;
+	}
+	.m-progress-stats{
+		font-size: 20px;
+	}
+	#demo-modal-3 .modal-title{
+		font-size: 20px;
+	}
+	#demo-modal-3 .modal-body h2{
+		font-size: 28px;
+	}
+	#demo-modal-3 .form-control{
+		height: 50px;
+    	font-size: 20px;
+	}
+	#demo-modal-3 .modal-footer .btn{
+		font-size: 20px;
+		padding: 8px 30px;
+	}
+	#demo-modal-3 .modal-body p{
+		font-size: 20px;
+	}
+	#demo-modal-3 .modal-body a{
+		font-size: 20px;
+	}
+	.fh5co-heading span{
+		font-size: 22px;
+	}
+	.fh5co-heading h2{
+		    font-size: 65px;
+		        margin-bottom: 30px;
+	}
+	#fh5co-testimonial, #fh5co-services, #fh5co-started, #fh5co-footer, #fh5co-event, #fh5co-couple-story, #fh5co-couple, #fh5co-gallery, .fh5co-section{
+		padding: 7em 0;
+	}
+	.iconCircleIndex{
+		width: 200px;
+    	height: 200px;
+	}
+	.iconCircleIndex i.fa-file-text {
+	    top: 65px;
+    left: 70px;
+    font-size: 80px;
+	}
+	.iconCircleIndex i.fa-heart {
+	    top: 67px;
+    left: 56px;
+    font-size: 90px;
+	}
+	.iconCircleIndex i.fa-commenting {
+	      top: 60px;
+    left: 58px;
+    font-size: 90px;
+	}
+	.iconCircleIndex img {
+	       width: 90px;
+	    top: 60px;
+	    left: 58px;
+	}
+	.sectionRegistor h2{
+		font-size: 28px;
+		margin-bottom: 10px;
+	}
+	.sectionRegistor p { 
+	    font-size: 22px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide figure{
+		width: 150px;
+		height: 150px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide figure img{
+		width: 150px;
+		height: 150px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide span{
+		font-size: 20px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide blockquote p{
+		font-size: 24px;
+	}
+	.owl-theme .owl-dots .owl-dot span{
+		width: 18px;
+    	height: 18px;
+	}
+	.fh5co-heading h3{
+		font-size: 24px;
+	}
+	.couple-half h3{
+		font-size: 36px;
+	}
+	.couple-half .desc-bride{
+		padding-left: 220px;
+	}
+	.couple-half .desc-groom{
+		padding-right: 220px;
+	}
+	.couple-half .desc-groom p,
+	.couple-half .desc-bride p
+	{
+		font-size: 22px;
+	}
+	.ftrList h2{
+		font-size: 30px;
+	}
+	.ftrList ul li{
+		line-height: 2.2;
+	}
+	.ftrList ul li i{
+		font-size: 20px;
+	}
+	.ftrList ul li a{
+		font-size: 20px;
+	}
+	.ftr_bottom{
+		border-top: 1.5px solid #fff;
+	}
+	.ftr_bottom p{
+		font-size: 20px;
+	}
+	.gototop a{
+		width: 80px;
+		height: 80px;
+	}
+	.gototop a i {
+	    height: 60px;
+	    font-size: 24px;
+	}
+	#fh5co-counter .icon{
+		width: 100px;
+		height: 100px;
+	}
+	#fh5co-counter .icon i {
+	    height: 100px;
+	}
+	.feature-center .icon i{
+		    font-size: 48px;
+	}
+	#fh5co-counter .counter{
+		font-size: 46px;
+	}
+	#fh5co-counter .counter-label{
+		font-size: 22px;
+	}
+	#fh5co-counter .fh5co-heading span, #fh5co-event .fh5co-heading span{
+		font-size: 20px;
+	}
+	.profilePic img{
+		height: 350px;
+		object-fit: cover;
+	}
+	#fh5co-counter .event-wrap h3, #fh5co-event .event-wrap h3{
+		font-size: 28px;
+	}
+	#fh5co-event .event-wrap .event-col ul li{
+		font-size: 22px;
+	}
+	#fh5co-counter{
+		height: 650px;
+	}
+	.countingSection{
+		height: 700px;
+	}
+
+}
+
+@media screen and (min-width: 1600px) {
+	.container {
+		width: 1570px;
+	}  
+	.fh5co-cover{
+		height: 900px;
+	}
+	#sliderCaption {
+		margin-top: 42%;
+	} 
+	.fh5co-nav #fh5co-logo{
+		font-size: 50px;
+	}
+	.fh5co-nav ul > li > a{
+		font-size: 28px;
+	padding: 30px 30px;
+	}
+	#sliderCaption h3{
+		font-size: 32px;
+	}
+	.formBackground .form-group label{
+		font-size: 22px;
+	}
+	.formBackground .form-group .form-control{
+		font-size: 20px;
+		height: 55px;
+	}
+	.couple-half .groom img,
+	.couple-half .bride img {
+		width: 250px;
+		height: 250px;
+	}
+	.couple-half .groom, .couple-half .bride {
+		width: 250px;
+		height: 250px;
+	}
+	.heart{
+		top: 6em;
+	}
+	.heart i{
+		font-size: 50px; 
+    	padding: 20px;
+	}
+	.modal-dialog{
+		width: 800px;
+	}
+	.loginmodal-container{
+		padding: 70px 25px;
+    	max-width: 800px;
+	}
+	.loginmodal-container h1{
+		font-size: 44px;
+	}
+	.loginmodal-container input[type=text], 
+	.loginmodal-container input[type=password],
+	.loginmodal-container input[type=submit]{
+		    height: 55px;
+		    font-size: 22px; 
+		    margin-bottom: 20px;
+	}
+	.login-help {
+	    font-size: 22px;
+	}
+	.m-progress-stats{
+		font-size: 22px;
+	}
+	#demo-modal-3 .modal-title{
+		font-size: 22px;
+	}
+	#demo-modal-3 .modal-body h2{
+		font-size: 32px;
+	}
+	#demo-modal-3 .form-control{
+		height: 55px;
+    	font-size: 22px;
+	}
+	#demo-modal-3 .modal-footer .btn{
+		font-size: 22px;
+		padding: 8px 36px;
+	}
+	#demo-modal-3 .modal-body p{
+		font-size: 22px;
+	}
+	#demo-modal-3 .modal-body a{
+		font-size: 22px;
+	}
+	.fh5co-heading span{
+		font-size: 28px;
+	}
+	.fh5co-heading h2{
+		    font-size: 80px;
+		        margin-bottom: 30px;
+	}
+	#fh5co-testimonial, #fh5co-services, #fh5co-started, #fh5co-footer, #fh5co-event, #fh5co-couple-story, #fh5co-couple, #fh5co-gallery, .fh5co-section{
+		padding: 7em 0;
+	}
+	.iconCircleIndex{
+		width: 250px;
+    	height: 250px;
+	}
+	.iconCircleIndex i.fa-file-text {
+	    top: 77px;
+    left: 87px;
+    font-size: 100px
+	}
+	.iconCircleIndex i.fa-heart {
+	    top: 80px;
+    left: 74px;
+    font-size: 110px;
+	}
+	.iconCircleIndex i.fa-commenting {
+	        top: 70px;
+    left: 74px;
+    font-size: 115px;
+	}
+	.iconCircleIndex img {
+	        width: 115px;
+    top: 72px;
+    left: 74px;
+	}
+	.sectionRegistor h2{
+		font-size: 44px;
+		margin-bottom: 10px;
+	}
+	.sectionRegistor p { 
+	    font-size: 28px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide figure{
+		width: 180px;
+		height: 180px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide figure img{
+		width: 180px;
+		height: 180px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide span{
+		font-size: 20px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide blockquote p{
+		font-size: 28px;
+	}
+	.owl-theme .owl-dots .owl-dot span{
+		width: 22px;
+    	height: 22px;
+	}
+	.fh5co-heading h3{
+		font-size: 28px;
+	}
+	.couple-half h3{
+		font-size: 46px;
+	}
+	.couple-half .desc-bride{
+		padding-left: 280px;
+	}
+	.couple-half .desc-groom{
+		padding-right: 280px;
+	}
+	.couple-half .desc-groom p,
+	.couple-half .desc-bride p
+	{
+		font-size: 24px;
+	}
+	.ftrList h2{
+		font-size: 34px;
+	}
+	.ftrList ul li{
+		line-height: 2.2;
+	}
+	.ftrList ul li i{
+		font-size: 22px;
+	}
+	.ftrList ul li a{
+		font-size: 22px;
+	}
+	.ftr_bottom{
+		border-top: 2px solid #fff;
+	}
+	.ftr_bottom p{
+		font-size: 22px;
+	}
+	.gototop a{
+		width: 80px;
+		height: 80px;
+	}
+	.gototop a i {
+	    height: 80px;
+	    font-size: 24px;
+	}
+	#fh5co-counter .icon{
+		width: 140px;
+		height: 140px;
+	}
+	#fh5co-counter .icon i {
+	    height: 140px;
+	}
+	.feature-center .icon i{
+		    font-size: 70px;
+	}
+	#fh5co-counter .counter{
+		font-size: 70px;
+	}
+	#fh5co-counter .counter-label{
+		font-size: 24px;
+	}
+	#fh5co-counter .fh5co-heading span, #fh5co-event .fh5co-heading span{
+		font-size: 22px;
+	}
+	.profilePic img{
+		height: 450px;
+		object-fit: cover;
+	}
+	#fh5co-counter .event-wrap h3, #fh5co-event .event-wrap h3{
+		font-size: 28px;
+	}
+	#fh5co-event .event-wrap .event-col ul li{
+		font-size: 24px;
+	}
+	#fh5co-counter{
+		height: 900px;
+	}
+	.countingSection{
+		height: 900px;
+	}
+}
+
+@media screen and (min-width: 1900px) {
+	.container {
+	width: 1870px;
+	} 
+	.fh5co-cover{
+		height: 1100px;
+	}
+	#sliderCaption {
+	margin-top: 45%;
+	}
+	.fh5co-nav #fh5co-logo{
+		font-size: 60px;
+	}
+	.fh5co-nav ul > li > a{
+		font-size: 30px;
+	padding: 30px 30px;
+	}
+	#sliderCaption h3{
+		font-size: 36px;
+	}
+	.formBackground .form-group label{
+		font-size: 24px;
+	}
+	.formBackground .form-group .form-control{
+		font-size: 22px;
+		height: 60px;
+	}
+	.couple-half .groom img,
+	.couple-half .bride img {
+		width: 300px;
+		height: 300px;
+	}
+	.couple-half .groom, .couple-half .bride {
+		width: 300px;
+		height: 300px;
+	}
+	.heart{
+		top: 8em;
+	}
+	.heart i{
+		font-size: 60px; 
+    	padding: 20px;
+	}
+	.modal-dialog{
+		width: 900px;
+	}
+	.loginmodal-container{
+		padding: 80px 30px;
+    	max-width: 900px;
+	}
+	.loginmodal-container h1{
+		font-size: 48px;
+	}
+	.loginmodal-container input[type=text], 
+	.loginmodal-container input[type=password],
+	.loginmodal-container input[type=submit]{
+		    height: 60px;
+		    font-size: 24px; 
+		    margin-bottom: 20px;
+	}
+	.login-help {
+	    font-size: 24px;
+	}
+	.m-progress-stats{
+		font-size: 24px;
+	}
+	#demo-modal-3 .modal-title{
+		font-size: 24px;
+	}
+	#demo-modal-3 .modal-body h2{
+		font-size: 36px;
+	}
+	#demo-modal-3 .form-control{
+		height: 60px;
+    	font-size: 24px;
+	}
+	#demo-modal-3 .modal-footer .btn{
+		font-size: 24px;
+		padding: 8px 40px;
+	}
+	#demo-modal-3 .modal-body p{
+		font-size: 24px;
+	}
+	#demo-modal-3 .modal-body a{
+		font-size: 24px;
+	}
+	.fh5co-heading span{
+		font-size: 30px;
+	}
+	.fh5co-heading h2{
+		    font-size: 90px;
+		        margin-bottom: 30px;
+	}
+	#fh5co-testimonial, #fh5co-services, #fh5co-started, #fh5co-footer, #fh5co-event, #fh5co-couple-story, #fh5co-couple, #fh5co-gallery, .fh5co-section{
+		padding: 8em 0;
+	}
+	.iconCircleIndex{
+		width: 300px;
+    	height: 300px;
+	}
+	.iconCircleIndex i.fa-file-text {
+	    top: 88px;
+	    left: 100px;
+	    font-size: 120px;
+	}
+	.iconCircleIndex i.fa-heart {
+	    top: 94px;
+	    left: 86px;
+	    font-size: 130px;
+	}
+	.iconCircleIndex i.fa-commenting {
+	    top: 85px;
+	    left: 85px;
+	    font-size: 130px;
+	}
+	.iconCircleIndex img {
+	    width: 130px; 
+	    top: 85px;
+	    left: 85px;
+	}
+	.sectionRegistor h2{
+		font-size: 48px;
+		margin-bottom: 10px;
+	}
+	.sectionRegistor p { 
+	    font-size: 30px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide figure{
+		width: 200px;
+		height: 200px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide figure img{
+		width: 200px;
+		height: 200px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide span{
+		font-size: 22px;
+	}
+	#fh5co-testimonial .wrap-testimony .testimony-slide blockquote p{
+		font-size: 30px;
+	}
+	.owl-theme .owl-dots .owl-dot span{
+		width: 25px;
+    	height: 25px;
+	}
+	.fh5co-heading h3{
+		font-size: 30px;
+	}
+	.couple-half h3{
+		font-size: 50px;
+	}
+	.couple-half .desc-bride{
+		padding-left: 330px;
+	}
+	.couple-half .desc-groom{
+		padding-right: 330px;
+	}
+	.couple-half .desc-groom p,
+	.couple-half .desc-bride p
+	{
+		font-size: 26px;
+	}
+	.ftrList h2{
+		font-size: 36px;
+	}
+	.ftrList ul li{
+		line-height: 2.4;
+	}
+	.ftrList ul li i{
+		font-size: 24px;
+	}
+	.ftrList ul li a{
+		font-size: 24px;
+	}
+	.ftr_bottom{
+		border-top: 3px solid #fff;
+	}
+	.ftr_bottom p{
+		font-size: 24px;
+	}
+	.gototop a{
+		width: 80px;
+		height: 80px;
+	}
+	.gototop a i {
+	    height: 80px;
+	    font-size: 24px;
+	}
+	#fh5co-counter .icon{
+		width: 140px;
+		height: 140px;
+	}
+	#fh5co-counter .icon i {
+	    height: 140px;
+	}
+	.feature-center .icon i{
+		    font-size: 70px;
+	}
+	#fh5co-counter .counter{
+		font-size: 70px;
+	}
+	#fh5co-counter .counter-label{
+		font-size: 26px;
+	}
+	#fh5co-counter .fh5co-heading span, #fh5co-event .fh5co-heading span{
+		font-size: 24px;
+	}
+	.profilePic img{
+		height: 500px;
+		object-fit: cover;
+	}
+	#fh5co-counter .event-wrap h3, #fh5co-event .event-wrap h3{
+		font-size: 30px;
+	}
+	#fh5co-event .event-wrap .event-col ul li{
+		font-size: 26px;
+	}
+	#fh5co-counter{
+		height: 900px;
+	}
+	.countingSection{
+		height: 900px;
+	}
+}
+
+@media screen and (min-width: 2200px) {
+  .container {
+    width: 2170px;
+  }
+}
+
+@media only screen and (min-width:768px){
+	.seven-cols .formBackground{
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
+
+@media only screen and (max-width:1199px) and (min-width:992px){	
+	.seven-cols .formBackground{
+    background: rgba(0, 0, 0, 0.3);
+  }
+  .seven-cols .formBackground .form-group label{
+    font-size: 12px;
+  }
+  .seven-cols .formBackground .form-group .form-control{
+    font-size: 11px;
+    padding: 10px 3px;
+  }
+}
+@media only screen and (max-width:1199px) and (min-width:1024px){
+	.fh5co-heading h2{
+		font-size: 46px;
+	}
+}
+@media only screen and (max-width:767px) {
+	.fh5co-nav.indexNav {
+		position: unset;
+		background: #bb439b;
+	}
+
+	.fh5co-nav-toggle {
+		display: none;
+	}
+
+	.fh5co-nav a {
+		display: inline-flex;
+		padding: 0;
+	}
+
+	#fh5co-header .couple-wrap {
+		display: none;
+	}
+	.fh5co-nav #fh5co-logo {
+		font-size: 24px;
+	}
+
+	.fh5co-nav a strong {
+		margin-left: 10px;
+	}
+
+	#fh5co-offcanvas {
+		background: #bb439b;
+	}
+
+	.fh5co-nav.indexNav {
+		padding: 10px 0;
+	}
+
+	#fh5co-offcanvas a {
+		color: #fff;
+	}
+	.fh5co-heading h2{
+		font-size: 36px;
+	}
+	.fh5co-cover {
+		height: 350px;
+		padding-bottom: 20px;
+	}
+	#sliderCaption {
+	    margin-top: 0;
+	    position: absolute;
+	    bottom: 30%;
+	    padding: 0 15%;
+	}
+	.couple-wrap {
+		width: 100%; 
+	}
+
+	.couple-half {
+		width: 50%;
+	}
+
+	.couple-half .groom, .couple-half .bride {
+		height: auto;
+		width: unset;
+	}
+
+	.couple-half .groom img, .couple-half .bride img {
+		width: 100px;
+		height: 100px;
+	}
+
+	.heart {
+		display: block;
+		top: 2.5em;
+	}
+
+	.heart i {
+		padding: 10px;
+	}
+
+	.searchBar {
+		bottom: 0;
+	}
+
+	.formBackground {
+		background: rgba(0, 0, 0, 0.35);
+		padding: 0 10px 10px
+	}
+
+	#fh5co-header {
+		background-position: 0 0px !important;
+	}
+
+	.fh5co-nav .menu-1, .fh5co-nav .menu-2 {
+		display: block;
+	}
+
+	.fh5co-nav ul > li > a {
+		font-size: 12px;
+		padding: 8px 5px;
+	}
+
+	.iconCircleIndex {
+		width: 80px;
+		height: 80px;
+		margin: 0 auto 10px;
+	}
+
+	.iconCircleIndex i {
+		position: relative;
+	}
+
+	.iconCircleIndex i.fa-file-text {
+		top: 30%;
+		left: 35%;
+		font-size: 30px;
+	}
+
+	.iconCircleIndex i.fa-heart {
+		top: 32%;
+		left: 30%;
+		font-size: 32px;
+	}
+
+	.iconCircleIndex i.fa-commenting {
+		top: 25%;
+		left: 30%;
+		font-size: 35px;
+	}
+
+	.iconCircleIndex img {
+		width: 40px;
+		top: 25%;
+		left: 25%;
+		position: relative;
+	}
+
+	.sectionRegistor h2 {
+		font-size: 20px;
+		font-weight: 600;
+		margin-bottom: 10px;
+	}
+
+	.sectionRegistor p {
+		font-size: 14px;
+		line-height: 1.5;
+	}
+
+	.formBackground .form-group .form-control {
+		font-size: 10px;
+		padding: 6px 6px;
+		white-space: break-spaces;
+	}
+
+	.formBackground .form-group label {
+		font-size: 10px;
+	}
+
+	.formBackground .form-group {
+		margin-bottom: unset;
+		padding: 0 10px;
+	}
+
+	#fh5co-counter .event-wrap h3, #fh5co-event .event-wrap h3 {
+		font-size: 16px;
+		margin-bottom: 5px;
+	}
+
+	#fh5co-counter .event-wrap, #fh5co-event .event-wrap {
+		padding: 5px;
+	}
+
+	.display-tc {
+		padding: 0 10px;
+	}
+
+	.display-tc > div {
+		padding: 0 5px;
+	}
+
+	#fh5co-counter .event-wrap .event-col, #fh5co-event .event-wrap .event-col {
+		display: flex;
+		align-items: center;
+	}
+
+	#fh5co-event .event-wrap .event-col ul {
+		padding: 0;
+	}
+
+	#fh5co-event .event-wrap .event-col ul li {
+		font-size: 12px;
+	}
+
+	#fh5co-testimonial .wrap-testimony .testimony-slide blockquote p {
+		font-size: 14px;
+	}
+
+	#fh5co-counter .icon {
+		width: 50px;
+		height: 50px;
+		margin-bottom: 10px;
+	}
+
+	#fh5co-counter .icon i {
+		height: 50px;
+		font-size: 25px;
+		line-height: 25px;
+	}
+
+	#fh5co-counter .counter {
+		font-size: 30px;
+		margin-bottom: 5px;
+	}
+	#fh5co-counter .counter-label{
+		font-size: 14px;
+	}
+	#fh5co-couple h3{
+		font-size: 14px;
+	}
+	.couple-half .desc-groom,
+	.couple-half .desc-bride{
+		width: 100%;
+	    clear: both;
+	    padding-right: unset;
+	    padding-left: unset;
+	}
+	.couple-half .desc-groom p,
+	.couple-half .desc-bride p{
+		font-size: 12px;
+	    padding: 0 10px;
+	    text-align: center;
+	}
+	#fh5co-couple .desc-groom h3,
+	#fh5co-couple .desc-bride h3{
+		font-size: 16px;
+		font-weight: bold; 
+		margin-bottom: 0;
+		display: inline-block;
+		padding: 10px 20px;
+	}
+	/*==footer css==*/
+	footer.ftr{
+		padding: 15px 0;
+	}
+	.ftrList{
+		padding: 0 5px;
+		display: grid;
+		justify-content: center;
+		align-items: center;
+	}
+	.ftr_bottom{
+		margin-top: 15px;
+	}
+	.ftrList h2{
+		font-size: 16px;
+	    display: table-cell;
+	    height: 15px;
+	    vertical-align: middle;
+	    font-weight: 600;
+	}
+	.ftrList ul li a,
+	.ftrList ul li i{
+		font-size: 14px;
+	}
+	.ftrList ul li { 
+	    line-height: 1.4;
+	    text-indent: -6px;
+	    margin-left: 6px;
+	    padding-bottom: 10px;
+	}
+	.ftrList ul{
+		/*margin-bottom: 15px;*/
+		padding: 0 10px;
+	}
+	.ftr_bottom p {
+    	font-size: 12px;
+	}
+	 
+	.changePwd {
+		display: block;
+	}
+
+}
+
+
+@media only screen and (max-width:320px){
+	.fh5co-nav #fh5co-logo{
+		font-size: 16px;
+	}
+	.loginmodal-container h1{
+		font-size: 20px;
+		line-height: 1.6;
+	}
+	#demo-modal-3 .modal-body h2{
+		font-size: 20px;
+	}
+	#demo-modal-3 .form-control{
+		height: 30px;
+	    padding: 5px 10px;
+	    font-size: 14px;
+	}
+	#demo-modal-3 .modal-footer .btn{
+	    font-size: 14px;
+		padding: 5px 10px;
+	}
+	.formBackground .form-group label{
+		font-size: 7px;
+	}
+	.formBackground .form-group .form-control{
+		font-size: 8px;
+    	padding: 6px 2px;
+	}
+	.fh5co-heading span{
+		font-size: 10px;
+	}
+	.fh5co-heading h2{
+		font-size: 20px;
+	}
+	.sectionRegistor h2{
+		font-size: 14px;
+	}
+	.sectionRegistor p{
+		font-size: 12px;
+	}
+	.ftrList h2{
+		font-size: 12px;
+	}
+	.ftrList ul li a, 
+	.ftrList ul li i {
+	    font-size: 10px;
+	}
+	.ftr_bottom p {
+	    font-size: 10px;
+	}
+	#fh5co-couple .desc-groom h3, 
+	#fh5co-couple .desc-bride h3{
+		font-size: 14px;
+		padding: 10px 10px;
+	}
+	.couple-half .desc-groom p, .couple-half .desc-bride p {
+	    font-size: 10px;
+	    padding: 0 2px; 
+	}
+	#fh5co-counter .counter-label {
+	    font-size: 12px;
+	}
+	#fh5co-counter .counter {
+	    font-size: 20px; 
+	}
+	.profilePic img {
+	    height: 150px;
+	    width: 100%;
+	    display: block;
+	    margin: 0 auto 15px;
+	    object-fit: contain;
+	}
+	#fh5co-event .event-wrap .event-col ul li {
+	    font-size: 10px;
+	}
+	.loginmodal-container h1{
+		font-size: 20px;
+	}
+	.contentPDDetails h4 {
+	    font-size: 14px;
+	}
+	.contentPDDetails p {
+	    font-size: 12px;
+	    text-align: justify;
+	}
+	.changePwd form {
+	    margin: 0 -20px;
+	}
+	.changePwd form .form-group .form-control{
+		height: 30px;
+		font-size: 12px;
+		padding: 0px 20px;
+	}
+	.changePwd form .form-group textarea.form-control{
+		height: auto;
+	}
+	.contentPDDetails ul li,
+	.contentPDDetails ol li{
+		font-size: 12px;
+	}
+} 
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+
+	/* Styles */
+	#fh5co-header {
+		/* uncomment when background image will change */
+    background-position: -140px 0px !important;
+	}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width:321px) {
+
+	/* Styles */
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width:480px){
+	.fh5co-heading h2{
+		font-size: 28px;
+	}
+}
+@media only screen and (max-width:440px){
+	.fh5co-heading h2{
+		font-size: 26px;
+	}
+}
+@media only screen and (max-width:360px){
+	.fh5co-heading h2{
+		font-size: 22px;
+	}
+}
+@media only screen and (max-width:320px) {
+	#fh5co-header .couple-wrap {
+		display: none;
+	}	
+	#sliderCaption {
+		margin: 0;
+		position: absolute;
+		bottom: 175px;
+		width: 100%;
+		padding: 0 15%;
+	}
+
+	#sliderCaption h3 {
+		font-size: 14px;
+		font-size: 20px;
+		line-height: 1.4;
+	}
+
+}
+
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+
+	/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) {
+
+	/* Styles */
+}
+
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width:1224px) {
+
+	/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width:1824px) {
+
+	/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:480px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-height:568px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:568px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width:375px) and (max-device-height:667px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:375px) and (max-device-height:667px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width:414px) and (max-device-height:736px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:414px) and (max-device-height:736px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* iPhone X ----------- */
+@media only screen and (min-device-width:375px) and (max-device-height:812px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:375px) and (max-device-height:812px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+/* iPhone XS Max, XR ----------- */
+@media only screen and (min-device-width:414px) and (max-device-height:896px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:414px) and (max-device-height:896px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:landscape) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:portrait) and (-webkit-device-pixel-ratio:2) {
+
+	/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:320px) and (max-device-height:640px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width:360px) and (max-device-height:640px) and (orientation:landscape) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
+
+@media only screen and (min-device-width:360px) and (max-device-height:640px) and (orientation:portrait) and (-webkit-device-pixel-ratio:3) {
+
+	/* Styles */
+}
